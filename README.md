@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @9552268990
+- 👋 Hi, I’m @Pavan
 - 👀 I’m interested in Python, AIML
 - 🌱 I’m currently learning FAIML with skills kash 
 - 💞️ I’m looking to collaborate on Python and AIML
+
 
 
 <!---
